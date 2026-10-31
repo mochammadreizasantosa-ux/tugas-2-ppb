@@ -3,13 +3,15 @@ Aplikasi toko online modern berbasis Flutter yang dirancang untuk memberikan pen
 🎨 Konsep Desain & Tema Warna
 Aplikasi ini mengusung konsep antarmuka Cyber-Modern Midnight, memberikan kesan elegan, futuristik, dan nyaman di mata untuk penggunaan jangka panjang.
 
-Midnight Eclipse (#0F172A): Warna latar belakang utama yang memberikan kesan mendalam.
+val Ink = Color(0xFF3B3552)
+val Lavender = Color(0xFFDCD6F7)
+val Mint = Color(0xFFCDEFE3)
+val Peach = Color(0xFFFFD9C7)
+val Sky = Color(0xFFCFE8FF)
+val Butter = Color(0xFFFFF3C4)
+val Pink = Color(0xFFFFB0E5)
+val Cream = Color(0xFFFFFBF7)
 
-Neon Electric Blue (#3B82F6): Warna aksen utama untuk tombol interaktif dan highlight.
-
-Cyan Glow (#06B6D4): Digunakan untuk penanda status dan elemen sekunder.
-
-Soft Obsidian (#1E293B): Warna komponen kartu produk dan kontainer data.
 Fitur Utama Aplikasi
 1. Etalase & Katalog Produk (Home Screen)
 Kategori Dinamis: Pemfilteran barang berdasarkan kategori secara instan.
